@@ -1,0 +1,22 @@
+Hydrophilic Small Molecules That Harness Transthyretin To Enhance
+the Safety and Efficacy of Targeted Chemotherapeutic Agents
+INTRODUCTION
+Most chemotherapeutic agents are designed to interfere with
+processes inside a tumor cell. These cytotoxic drugs should be
+hydrophobic enough to diffuse across cell membranes and
+reach their intracellular targets. However, the hydrophobicity
+of these drugs will usually result in their nonselective passive
+distribution into healthy cells and organs resulting in collateral
+toxicity. Therefore, strategies that minimize the toxicity of
+these cytotoxic agents toward healthy cells while maintaining
+their potency on tumor cells are highly desirable. One
+attractive strategy for achieving the required therapeutic
+potency with minimal toxicity is through targeted cancer
+therapy.1 Antibody−drug conjugates (ADCs) represent a
+promising approach for cancer therapy that involves
+conjugation of the cytotoxic agent to antibodies targeted to
+specific tumor antigens. While the large size of ADCs (size
+∼150 kDa) limits the nonselective distribution of the cytotoxic
+agent into healthy cells and tissues, it also reduces their rate of
+diffusion and extent of penetration into solid tumor tissues.
+Therefore, the majority of approved ADCs and the ones in
